@@ -10,6 +10,12 @@ Short movie: 5-image slideshow with music (same backpacker travels to Australia,
 
 See **[backpacker-australia/README.md](backpacker-australia/README.md)** for setup and run instructions.
 
+### [Hostel to Mines](hostel-to-mines/)
+
+12-image slideshow: same person – from sleeping in a crowded hostel and dreaming of mining money and holidays, to waking in a dirty hostel, cooking, job rejections, farm work, saving up, rigging course, high-risk license, and working in the mines as a rigger.
+
+See **[hostel-to-mines/README.md](hostel-to-mines/README.md)** for setup and run instructions.
+
 ---
 
 *More video projects will be added here.*
