@@ -1,0 +1,8 @@
+.venv
+music_cache
+*.mp4
+__pycache__
+*.pyc
+.DS_Store
+build.log
+!backpacker-australia/backpacker_australia_slideshow.mp4
