@@ -22,6 +22,12 @@ See **[hostel-to-mines/README.md](hostel-to-mines/README.md)** for setup and run
 
 See **[female-backpacker-australia/README.md](female-backpacker-australia/README.md)** for setup and run instructions.
 
+### [Backpacker Work Journey (Australia)](backpacker-work-australia/)
+
+5-image slideshow: the same guy working in a kitchen, as a restaurant waiter, picking mangoes on a farm, driving a tractor during canola seeding (seeder bar, vast paddock), and as a construction labourer.
+
+See **[backpacker-work-australia/README.md](backpacker-work-australia/README.md)** for setup and run instructions.
+
 ---
 
 *More video projects will be added here.*
