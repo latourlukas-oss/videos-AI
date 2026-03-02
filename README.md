@@ -28,6 +28,12 @@ See **[female-backpacker-australia/README.md](female-backpacker-australia/README
 
 See **[backpacker-work-australia/README.md](backpacker-work-australia/README.md)** for setup and run instructions.
 
+### [French Backpackers – Always Together](french-backpackers-hostel/)
+
+4-image slideshow: same group of young French backpackers always staying together – eating together, drinking and speaking French, applying for the same jobs, partying in the club together.
+
+See **[french-backpackers-hostel/README.md](french-backpackers-hostel/README.md)** for setup and run instructions.
+
 ---
 
 *More video projects will be added here.*
