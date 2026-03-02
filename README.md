@@ -16,6 +16,12 @@ See **[backpacker-australia/README.md](backpacker-australia/README.md)** for set
 
 See **[hostel-to-mines/README.md](hostel-to-mines/README.md)** for setup and run instructions.
 
+### [Female Backpacker in Australia](female-backpacker-australia/)
+
+6-image slideshow: a young female backpacker flies to Australia, arrives with luggage, searches for accommodation on Facebook, sees comments from strangers offering free stays, ends up in an uncomfortable house, then finds a friendly sharehouse with other backpackers.
+
+See **[female-backpacker-australia/README.md](female-backpacker-australia/README.md)** for setup and run instructions.
+
 ---
 
 *More video projects will be added here.*
